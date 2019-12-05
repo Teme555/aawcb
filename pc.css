@@ -10,7 +10,7 @@
 	}
 	p{color: rgb(63, 63, 63);}
 	.wrap {width: 1170px;margin: 0 auto;}
-	.title {width: 590px;height: 97px;text-align: center;line-height: 97px;font-size: 52px;color: #fff;margin: 0px auto 50px auto;background: url(style/images/tit.png) no-repeat center;}
+	.title {width: 590px;height: 97px;text-align: center;line-height: 97px;font-size: 52px;color: #fff;margin: 0px auto 50px auto;}
 	.box_info {background-color: #fff;border-radius: 5px;overflow: hidden;padding: 20px;padding-top: 35px;}
 	.box_title {
 		font-size: 16px;
